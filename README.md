@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi I'm Alexis!👋
 
-<!--
-**paquina9112/paquina9112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🙋🏻‍♀️
+Hey everyone! I am taking this class as part of the Computer Science Certificate through High School Connections as well as the Accounting Certificate. Once I graduate this year I intend to major in Biomedical Engineerning at a 4-year university.
 
-Here are some ideas to get you started:
+## Currently Learning 📚
+- C++
+- JAVA
+- Music Appreciation
+- Literature and Composition
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Foo ⛳
+I am an avid golfer and I love to watch all sports.  I have always enjoyed binge watching movies and TV shows along with listening to music, playing video games and reading books.
+
+## Fun Fact ✨
+I am a 2 time Regional Runner-Up and a 4 time State Qualifier for Women's Golf in high school.
+
+## Find Me 🔭
+Here on Github!
