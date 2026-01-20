@@ -10,7 +10,7 @@ Hey everyone! I am taking this class as part of the Computer Science Certificate
 - Literature and Composition
 
 ## My Foo ⛳
-I am an avid golfer and I love to watch all sports.  I have always enjoyed binge watching movies and TV shows along with listening to music, playing video games and reading books.
+I love to golf, go to the gym, and I watch all sports.  I have always enjoyed binge watching movies and TV shows along with listening to music, playing video games and reading books.
 
 ## Fun Fact ✨
 I am a 2 time Regional Runner-Up and a 4 time State Qualifier for Women's Golf in high school.
